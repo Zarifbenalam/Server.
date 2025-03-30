@@ -1,6 +1,0 @@
-# .replit
-language = "python3"
-run = "python server.py"
-
-# Optional: Specify entrypoint if different
-# entrypoint = "server.py"
